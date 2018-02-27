@@ -1,3 +1,6 @@
+# Schema
+hybrid://**Action String**
+# Action
 ###### Initial a new Webview
 name | parameter
 --- | ---
