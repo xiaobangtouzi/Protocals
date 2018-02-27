@@ -1,4 +1,4 @@
 ###### Initial a new Webview
 name | parameter
 --- | ---
-actionNewWebview |  url<br>share
+newWebView |  url *String*<br>[share] *JSON String*
