@@ -1,5 +1,5 @@
 # Schema
-hybridInteraction://www.jiyoubang360.com#**Action String**
+hybridInteraction://www.jiyoubang360.com#
 # Action
 ###### Initial a new Webview
 name | parameter
