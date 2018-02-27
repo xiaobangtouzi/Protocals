@@ -1,4 +1,4 @@
-###### Initial new webview
-name | some prop
+###### Initial a new Webview
+name | parameter
 --- | ---
-lalala | ksdsd
+action__New | ksdsd<br>asd
