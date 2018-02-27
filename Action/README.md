@@ -1,2 +1,4 @@
 ###### Initial new webview
-lalala
+name | some prop
+--- | ---
+lalala | ksdsd
