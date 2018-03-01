@@ -9,4 +9,4 @@ hybridInteraction://www.jiyoubang360.com#`ActionObject JSON String`
 ###### Initial a new Webview
 action | parameters
 --- | ---
-newWebView |  url *String*<br>[share] *JSON String* e.g. `{"title":"title", "description":"description", "url":"url"}`
+newWebView |  url<br>[share] *JSON String* e.g. `{"title":"title", "description":"description", "url":"url"}`
