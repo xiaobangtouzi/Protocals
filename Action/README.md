@@ -12,7 +12,7 @@ action | parameters
 --- | ---
 newWebView |  url<br>[share] *JSON String* e.g. `{"title":"title", "description":"description", "url":"url"}`
 ### Predefined
-###### Switch to *investment* view
+###### Switch to *investment navigation* view
 action | parameters
 --- | ---
-toInvestment | *empty*
+toInvestmentNavigation | *empty*
